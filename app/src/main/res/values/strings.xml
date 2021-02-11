@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Security1</string>
+    <string name="enter_some_text">Enter some text</string>
+    <string name="Nkey">N-Key</string>
+    <string name="privateKey">Private Key</string>
+    <string name="publicKey">Public Key</string>
+    <string name="result">Result</string>
+    <string name="encryptPublic">Encrypt with public key</string>
+    <string name="decryptPublic">Decrypt with public key</string>
+    <string name="encryptPrivate">Encrypt with private key</string>
+    <string name="decryptPrivate">Decrypt with private key</string>
+    <string name="generateKeySet">Generate Key Set</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="key">Key</string>
+</resources>
